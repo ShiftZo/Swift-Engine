@@ -1,6 +1,5 @@
 -# Friday Night Funkin Swift Engine
 
-///////////////////////////
 
 A fork of the default engine with enhancements for web builds. includes:
 - Options
@@ -10,7 +9,7 @@ A fork of the default engine with enhancements for web builds. includes:
 
 
 Original Readme below.
-///////////////////////////
+
 
 This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
 
